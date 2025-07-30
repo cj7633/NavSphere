@@ -9,7 +9,7 @@ pages_build_output_dir = ".vercel/output/static"
 GITHUB_ID = "Ov23liP9oZwJZe8N5HNw"
 GITHUB_OWNER = "cj7633"
 GITHUB_REPO = "navsphere-demo"
-GITHUB_BRANCH = "f9ba36c"
+GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navsphere-3vz.pages.dev/api/auth"
 NEXT_PUBLIC_API_URL="https://navsphere-3vz.pages.dev"
 
